@@ -7,12 +7,13 @@
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Hash" />
+        <option value="Default.Date" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
       <map>
         <entry key="Table.Default.Author.ColumnIdVisibility" value="false" />
-        <entry key="Table.Default.Date.ColumnIdVisibility" value="false" />
+        <entry key="Table.Default.Date.ColumnIdVisibility" value="true" />
         <entry key="Table.Default.Hash.ColumnIdVisibility" value="true" />
       </map>
     </option>
