@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="backtogarage" />
     <option name="nonFavorites">
       <list>
+        <option value="backtogarage" />
         <option value="okhttp" />
+        <option value="garage" />
         <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine GET_DIS" />
