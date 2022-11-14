@@ -3,7 +3,7 @@
     <property name="created">2022-10-28T16:44:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.17</property>
-    <property name="modified">2022-10-28T16:53:59</property>
+    <property name="modified">2022-11-14T12:09:14</property>
     <property name="originalScheme">Gerry Oceanic</property>
   </metaInfo>
   <colors>
@@ -795,6 +795,9 @@
     <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
@@ -993,7 +996,7 @@
         <option name="FOREGROUND" value="ffc86e" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -1192,7 +1195,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="515a6b" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
