@@ -6,6 +6,7 @@
         <option value="package:mine okhttp" />
         <option value="package:mine" />
         <option value="package:mine TAG" />
+        <option value="package:mine level:debug " />
         <option value="package:mine Mahfuz" />
         <option value="okhttp" />
         <option value="level:ERROR " />
