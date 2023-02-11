@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Mind Unlock'" />
-    <option name="defaultScopeName" value="Project 'Mind Unlock'" />
-    <option name="SEARCH_SCOPE" value="Project 'Mind Unlock'" />
+    <option name="customScope" value="Project 'Hello Lock'" />
+    <option name="defaultScopeName" value="Project 'Hello Lock'" />
+    <option name="SEARCH_SCOPE" value="Project 'Hello Lock'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
